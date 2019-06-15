@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312172728460",
+    "firebase_url": "https://fir-mall-ad8a2.firebaseio.com",
+    "project_id": "fir-mall-ad8a2",
+    "storage_bucket": "fir-mall-ad8a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312172728460:android:4e926e1bd8c0863a",
+        "android_client_info": {
+          "package_name": "com.randy.mall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312172728460-jhohufsp7reeb24u4ot8o11nrdh36cdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.randy.mall",
+            "certificate_hash": "52ef03be05f064b4b379d4e908e17e5bffc30007"
+          }
+        },
+        {
+          "client_id": "312172728460-7hb7jmpiqr8vj6i4bi1f6i1at95m6856.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ5H6KZPXP5I8VrMNSWRksOxGUAeFYa_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312172728460-7hb7jmpiqr8vj6i4bi1f6i1at95m6856.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
